@@ -22,6 +22,9 @@ After running the script, you will see both the quantum circuit diagram and the 
 
 ### 1️⃣ Quantum Circuit Diagram  
 
+![01](https://github.com/user-attachments/assets/7d34e7fc-0336-4580-b3e2-b7ff8db4153e)![02](https://github.com/user-attachments/assets/cb11851f-ead8-4091-8e5f-fa64b082bf09)
+
+
 ### 2️⃣ Measurement Result Histogram  
 
 The measurement results indicate that **q0 and q2 are entangled**, following quantum entanglement principles. Ideally, their states should be equally distributed between `00` and `11`, which aligns with the simulated results.  
